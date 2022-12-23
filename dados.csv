@@ -1,0 +1,2001 @@
+﻿UF,IDADE,ESCOLARIDADE,ESTADO_CIVIL,QT_FILHOS,VL_IMOVEIS,TEMPO_ULTIMO_EMPREGO_MESES,ULTIMO_SALARIO,VALOR_TABELA_CARROS,SCORE_CREDITO,EMPRESTIMO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,56,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,45,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,42,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,48,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,,0,47,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,53,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,42,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,48,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,47,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,53,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,42,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,48,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,47,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,53,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,43,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,39,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,47,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,53,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,43,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,39,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,47,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,53,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,43,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,39,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,47,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,53,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,43,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,39,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,47,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,53,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,43,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,39,NAO
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,47,SIM
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,53,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,SIM
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,NAO
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,SIM
+RJ,57,Segundo Grau Completo,Casado,3,450000,25,22000,150000,51,NAO
+SP,62,Superior Cursando,Casado,3,0,48,4500,28000,56,SIM
+RJ,65,Superior Completo,Viuvo,1,0,120,9800,0,62,NAO
+SP,19,Superior Cursando,Solteiro,0,600000,15,15000,70000,67,SIM
+MG,23,Superior Completo,Solteiro,1,0,80,6100,48000,73,NAO
+SC,25,Segundo Grau Completo,Casado,0,280000,12,9000,0,78,SIM
+PR,25,Superior Cursando,Casado,1,700000,75,17500,50000,84,NAO
+RJ,28,Superior Completo,Divorciado,2,340000,90,13000,180000,89,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,450000,93,5300,0,95,NAO
+MG,32,Superior Cursando,Solteiro,1,900000,150,18300,80000,98,SIM
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,12,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,43,SIM
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,39,NAO
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,47,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,53,NAO
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,43,SIM
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,47,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,43,SIM
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,47,NAO
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,43,SIM
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,47,NAO
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,43,SIM
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,47,NAO
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,SIM
+RJ,28,Superior Completo,Divorciado,2,450000,25,22000,150000,51,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,48,4500,28000,56,SIM
+MG,32,Superior Cursando,Solteiro,1,0,120,9800,0,62,NAO
+SC,35,Superior Completo,Solteiro,1,600000,15,15000,70000,67,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,80,6100,48000,73,NAO
+RJ,45,Superior Cursando,Casado,0,280000,12,9000,0,78,SIM
+SP,48,Superior Completo,Divorciado,2,700000,75,17500,50000,84,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,340000,90,13000,180000,89,SIM
+SC,53,Superior Cursando,Casado,2,450000,93,5300,0,95,NAO
+PR,55,Superior Completo,Casado,2,900000,150,18300,80000,98,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,12,NAO
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,43,SIM
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,39,NAO
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,47,SIM
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,53,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,43,SIM
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,47,NAO
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,43,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,47,NAO
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,43,SIM
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,47,NAO
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,43,SIM
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,47,NAO
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,450000,25,22000,150000,51,NAO
+SC,53,Superior Cursando,Casado,2,0,48,4500,28000,56,SIM
+PR,55,Superior Completo,Casado,2,0,120,9800,0,62,NAO
+RJ,57,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+SP,62,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+RJ,65,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+SP,19,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+MG,23,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SC,25,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+PR,27,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,43,SIM
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,39,NAO
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,47,SIM
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,53,NAO
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,43,SIM
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,43,NAO
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,43,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,47,NAO
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+MG,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,27,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+RJ,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+MG,32,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SC,35,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+PR,42,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+RJ,45,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+SP,48,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,47,SIM
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,23,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,53,SIM
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,NAO
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,SIM
+RJ,65,Superior Completo,Viuvo,1,185000,19,6800,0,45,NAO
+SP,23,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+MG,28,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SC,30,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+PR,32,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+RJ,35,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SP,42,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+MG,45,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+SC,48,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+PR,51,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,58,SIM
+RJ,53,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+SP,55,Superior Completo,Solteiro,1,0,22,3900,0,61,SIM
+MG,57,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+SC,62,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+PR,65,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+RJ,19,Segundo Grau Completo,Divorciado,1,0,8,1800,0,64,SIM
+SP,23,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+RJ,25,Superior Completo,Casado,2,220000,18,2200,30000,47,SIM
+SP,27,Segundo Grau Completo,Casado,3,0,22,3900,0,53,NAO
+MG,28,Superior Cursando,Casado,3,370000,30,11500,35000,58,SIM
+SC,30,Superior Completo,Viuvo,1,0,14,3100,40000,61,NAO
+PR,32,Superior Cursando,Solteiro,0,185000,19,6800,0,64,SIM
+RJ,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SP,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+MG,45,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+SC,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+PR,51,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+RJ,53,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SP,55,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+MG,57,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+SC,62,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+PR,65,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+RJ,19,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SP,23,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+RJ,25,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SP,27,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+MG,28,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+SC,30,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+PR,32,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+RJ,35,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+SP,42,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+MG,45,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,47,SIM
+SC,48,Superior Cursando,Solteiro,1,220000,18,2200,30000,53,NAO
+PR,51,Superior Completo,Solteiro,1,0,22,3900,0,58,SIM
+RJ,53,Segundo Grau Completo,Casado,0,370000,30,11500,35000,61,NAO
+SP,55,Superior Cursando,Casado,0,0,14,3100,40000,64,SIM
+MG,57,Superior Completo,Divorciado,2,185000,19,6800,0,47,NAO
+SC,62,Segundo Grau Completo,Divorciado,1,0,8,1800,0,58,SIM
+PR,65,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+RJ,19,Superior Completo,Casado,2,220000,18,2200,30000,75,SIM
+SP,23,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+RJ,25,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SP,27,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+MG,28,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+SC,30,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,32,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,35,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+SP,42,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,45,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+SC,48,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+PR,51,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+RJ,53,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+SP,55,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+MG,57,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+SC,62,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+PR,65,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+RJ,19,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SP,23,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+RJ,25,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+SP,27,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+MG,28,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+SC,30,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+PR,32,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+RJ,35,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,92,SIM
+SP,42,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+MG,45,Superior Completo,Solteiro,1,0,22,3900,0,86,SIM
+SC,48,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+PR,51,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+RJ,23,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+SP,28,Segundo Grau Completo,Divorciado,1,0,8,1800,0,82,SIM
+MG,30,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+SC,32,Superior Completo,Casado,2,220000,18,2200,30000,79,SIM
+PR,35,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+RJ,42,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SP,45,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+RJ,48,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+SP,51,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+MG,53,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SC,55,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+PR,57,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+RJ,62,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+SP,65,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+MG,19,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+SC,23,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+PR,25,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+RJ,27,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+SP,28,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+MG,30,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+SC,32,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,35,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+RJ,42,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,45,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,48,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,51,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+MG,53,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,55,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,57,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,62,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,65,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+MG,19,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+SC,23,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,25,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,27,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,28,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,30,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,32,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+PR,35,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,42,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+SP,45,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,48,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SP,51,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,53,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+SC,55,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,57,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,62,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,65,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,19,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,27,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,30,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,32,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,35,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,42,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,45,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,48,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,51,Superior Cursando,Solteiro,0,0,8,1800,0,98,SIM
+MG,53,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,55,Segundo Grau Completo,Casado,0,220000,18,2200,30000,58,SIM
+PR,57,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,62,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,65,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,19,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+SC,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+RJ,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+MG,23,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+SC,28,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,30,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,32,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,35,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,42,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,45,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+PR,48,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,51,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+SP,53,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+MG,55,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SC,57,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+PR,62,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+RJ,65,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,19,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+RJ,23,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,25,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,27,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,28,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,30,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,32,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,35,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,42,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,45,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,48,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,51,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,53,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+MG,55,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SC,57,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+PR,62,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,65,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+SP,19,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,23,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,25,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,27,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+SC,28,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,30,Segundo Grau Completo,Casado,0,220000,18,2200,30000,79,SIM
+RJ,32,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,35,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,45,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,48,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,51,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,53,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+MG,55,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SC,57,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+PR,62,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,65,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+SP,19,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,23,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,25,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,27,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,28,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+PR,30,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,32,Superior Cursando,Casado,1,0,22,3900,0,98,SIM
+SP,35,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+MG,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SC,45,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+PR,48,Superior Completo,Solteiro,1,0,9,4800,50000,58,SIM
+RJ,51,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,53,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+MG,55,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SC,57,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+PR,62,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+RJ,65,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+SP,19,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,23,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,25,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,27,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,28,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,30,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,32,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,35,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+MG,42,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SC,45,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+PR,48,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,51,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+SP,23,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+MG,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SC,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+PR,32,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+RJ,35,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SP,42,Segundo Grau Completo,Casado,0,220000,18,2200,30000,79,SIM
+RJ,45,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,53,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,55,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,57,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,62,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+MG,65,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SC,19,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+PR,23,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,25,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+SP,27,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+MG,28,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SC,30,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+PR,32,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,35,Superior Completo,Solteiro,1,0,9,4800,50000,75,SIM
+SP,42,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,45,Superior Cursando,Casado,1,0,22,3900,0,92,SIM
+RJ,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+PR,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+RJ,53,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SP,55,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+RJ,57,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,62,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+PR,65,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,19,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SP,23,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+RJ,25,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+RJ,27,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+PR,28,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+RJ,30,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+SP,32,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+RJ,35,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+RJ,42,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+PR,45,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+RJ,48,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+SP,51,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+RJ,53,Superior Cursando,Solteiro,0,0,8,1800,0,79,SIM
+RJ,55,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,57,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+RJ,62,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,65,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,19,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+RJ,23,Superior Cursando,Solteiro,0,0,8,1800,0,98,SIM
+PR,25,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,27,Segundo Grau Completo,Casado,0,220000,18,2200,30000,58,SIM
+SP,28,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,30,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,32,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,35,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+RJ,42,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,45,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,48,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,51,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,53,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+RJ,55,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,57,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,62,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,65,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,19,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+RJ,23,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,25,Superior Completo,Solteiro,1,0,9,4800,50000,75,SIM
+PR,27,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,28,Superior Cursando,Casado,1,0,22,3900,0,92,SIM
+RJ,30,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,32,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+PR,35,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,42,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+SP,45,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,48,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,51,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+PR,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+RJ,45,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SP,48,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+RJ,51,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,48,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+PR,51,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+SP,48,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+RJ,51,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+RJ,48,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+PR,51,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,48,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,51,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+RJ,48,Superior Cursando,Solteiro,0,0,8,1800,0,79,SIM
+PR,51,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SP,48,Segundo Grau Completo,Casado,0,220000,18,2200,30000,75,SIM
+RJ,51,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+PR,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,98,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,58,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,79,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,98,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,58,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,75,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,18,NAO
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,92,SIM
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,29,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,SIM
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,NAO
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,SIM
+RJ,57,Segundo Grau Completo,Casado,3,450000,25,22000,150000,51,NAO
+SP,62,Superior Cursando,Casado,3,0,48,4500,28000,56,SIM
+RJ,65,Superior Completo,Viuvo,1,0,120,9800,0,62,NAO
+SP,19,Superior Cursando,Solteiro,0,600000,15,15000,70000,67,SIM
+MG,23,Superior Completo,Solteiro,1,0,80,6100,48000,73,NAO
+SC,25,Segundo Grau Completo,Casado,0,280000,12,9000,0,78,SIM
+PR,26,Superior Cursando,Casado,1,700000,75,17500,50000,84,NAO
+RJ,28,Superior Completo,Divorciado,2,340000,90,13000,180000,89,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,450000,93,5300,0,95,NAO
+MG,32,Superior Cursando,Solteiro,1,900000,150,18300,80000,98,SIM
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,12,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,86,SIM
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,23,NAO
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,82,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,NAO
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,SIM
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,79,SIM
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,18,NAO
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,75,SIM
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,29,NAO
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,34,SIM
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,40,NAO
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,SIM
+RJ,28,Superior Completo,Divorciado,2,450000,25,22000,150000,51,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,48,4500,28000,56,SIM
+MG,32,Superior Cursando,Solteiro,1,0,120,9800,0,62,NAO
+SC,35,Superior Completo,Solteiro,1,600000,15,15000,70000,67,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,80,6100,48000,73,NAO
+RJ,45,Superior Cursando,Casado,0,280000,12,9000,0,78,SIM
+SP,48,Superior Completo,Divorciado,2,700000,75,17500,50000,84,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,340000,90,13000,180000,89,SIM
+SC,53,Superior Cursando,Casado,2,450000,93,5300,0,95,NAO
+PR,55,Superior Completo,Casado,2,900000,150,18300,80000,98,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,12,NAO
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,92,SIM
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,23,NAO
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,86,SIM
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,34,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,40,SIM
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,NAO
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,82,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,18,NAO
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,79,SIM
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,29,NAO
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,SIM
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,NAO
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,450000,25,22000,150000,51,NAO
+SC,53,Superior Cursando,Casado,2,0,48,4500,28000,56,SIM
+PR,55,Superior Completo,Casado,2,0,120,9800,0,62,NAO
+RJ,57,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+SP,62,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+RJ,65,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+SP,19,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+MG,23,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SC,25,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+PR,27,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,82,SIM
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,98,SIM
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,98,SIM
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,58,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+MG,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,27,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+RJ,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+MG,32,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SC,35,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+PR,42,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+RJ,45,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+SP,48,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,75,SIM
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,23,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,92,SIM
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,NAO
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,SIM
+RJ,65,Superior Completo,Viuvo,1,185000,19,6800,0,45,NAO
+SP,23,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+MG,28,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SC,30,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+PR,32,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+RJ,35,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SP,42,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+MG,45,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+SC,48,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+PR,51,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,86,SIM
+RJ,53,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+SP,55,Superior Completo,Solteiro,1,0,22,3900,0,82,SIM
+MG,57,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+SC,62,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+PR,65,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+RJ,19,Segundo Grau Completo,Divorciado,1,0,8,1800,0,79,SIM
+SP,23,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+RJ,25,Superior Completo,Casado,2,220000,18,2200,30000,75,SIM
+SP,27,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+MG,28,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SC,30,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+PR,32,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+RJ,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SP,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+MG,45,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+SC,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+PR,51,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+RJ,53,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SP,55,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+MG,57,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+SC,62,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+PR,65,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+RJ,19,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SP,23,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+RJ,25,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SP,27,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+MG,28,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+SC,30,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+PR,32,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+RJ,35,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+SP,42,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+MG,45,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,92,SIM
+SC,48,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+PR,51,Superior Completo,Solteiro,1,0,22,3900,0,86,SIM
+RJ,53,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+SP,55,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+MG,57,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+SC,62,Segundo Grau Completo,Divorciado,1,0,8,1800,0,82,SIM
+PR,65,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+RJ,19,Superior Completo,Casado,2,220000,18,2200,30000,79,SIM
+SP,23,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+RJ,25,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SP,27,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+MG,28,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+SC,30,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,32,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,35,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+SP,42,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,45,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+SC,48,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+PR,51,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+RJ,53,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+SP,55,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+MG,57,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+SC,62,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+PR,65,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+RJ,19,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SP,23,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+RJ,25,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+SP,27,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+MG,28,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+SC,30,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+PR,32,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+RJ,35,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,82,SIM
+SP,42,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+MG,45,Superior Completo,Solteiro,1,0,22,3900,0,98,SIM
+SC,48,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+PR,51,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+RJ,23,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+SP,28,Segundo Grau Completo,Divorciado,1,0,8,1800,0,58,SIM
+MG,30,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+SC,32,Superior Completo,Casado,2,220000,18,2200,30000,75,SIM
+PR,35,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+RJ,42,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SP,45,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+RJ,48,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+SP,51,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+MG,53,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SC,55,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+PR,57,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+RJ,62,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+SP,65,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+MG,19,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+SC,23,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+PR,25,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+RJ,27,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+SP,28,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+MG,30,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+SC,32,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,35,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+RJ,42,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,45,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,48,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,51,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+MG,53,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,55,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,57,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,62,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,65,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+MG,19,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+SC,23,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,25,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,27,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,28,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,30,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,32,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+PR,35,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,42,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+SP,45,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,48,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SP,51,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,53,Superior Completo,Solteiro,1,0,9,4800,50000,75,SIM
+SC,55,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,57,Superior Cursando,Casado,1,0,22,3900,0,92,SIM
+RJ,62,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,65,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,19,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,27,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,30,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,32,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,35,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,42,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,45,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,48,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,51,Superior Cursando,Solteiro,0,0,8,1800,0,86,SIM
+MG,53,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,55,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+PR,57,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,62,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,65,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,19,Superior Cursando,Solteiro,0,0,8,1800,0,79,SIM
+SC,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+RJ,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+MG,23,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+SC,28,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,30,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,32,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,35,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,42,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,45,Superior Completo,Solteiro,1,0,9,4800,50000,98,SIM
+PR,48,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,51,Superior Cursando,Casado,1,0,22,3900,0,58,SIM
+SP,53,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+MG,55,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SC,57,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+PR,62,Superior Completo,Solteiro,1,0,9,4800,50000,75,SIM
+RJ,65,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,19,Superior Cursando,Casado,1,0,22,3900,0,92,SIM
+RJ,23,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,25,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,27,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,28,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,30,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,32,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,35,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,42,Segundo Grau Completo,Divorciado,1,,80,6100,48000,73,SIM
+SC,45,Superior Cursando,Casado,2,,12,9000,0,78,NAO
+PR,48,Superior Completo,Casado,2,,75,17500,50000,84,SIM
+RJ,51,Segundo Grau Completo,Casado,3,,90,13000,180000,89,NAO
+SP,53,Superior Cursando,Casado,3,,93,5300,0,95,SIM
+MG,55,Superior Completo,Viuvo,1,,150,18300,80000,98,NAO
+SC,57,Superior Cursando,Solteiro,0,,8,1800,0,86,SIM
+PR,62,Superior Completo,Solteiro,1,,9,4800,50000,18,NAO
+RJ,65,Segundo Grau Completo,Casado,0,,18,2200,30000,82,SIM
+SP,19,Superior Cursando,Casado,1,,22,3900,0,29,NAO
+RJ,23,Superior Completo,Divorciado,2,,30,11500,35000,34,SIM
+SP,25,Segundo Grau Completo,Divorciado,0,,14,3100,40000,40,NAO
+MG,27,Superior Cursando,Solteiro,0,,8,1800,0,79,SIM
+SC,28,Superior Completo,Solteiro,1,,9,4800,50000,18,NAO
+PR,30,Segundo Grau Completo,Casado,0,,18,2200,30000,75,SIM
+RJ,32,Superior Cursando,Casado,1,,22,3900,0,29,NAO
+SP,35,Superior Completo,Divorciado,2,,30,11500,35000,34,SIM
+MG,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,45,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,48,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,51,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,53,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+MG,55,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SC,57,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+PR,62,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,65,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+SP,19,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,23,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,25,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,27,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,28,Superior Completo,Solteiro,1,0,9,4800,50000,92,SIM
+PR,30,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,32,Superior Cursando,Casado,1,0,22,3900,0,86,SIM
+SP,35,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+MG,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SC,45,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+PR,48,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+RJ,51,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,53,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+MG,55,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SC,57,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+PR,62,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+RJ,65,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+SP,19,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,23,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,25,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,27,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,28,Superior Cursando,Casado,2,280000,12,,,78,NAO
+PR,30,Superior Completo,Casado,2,700000,75,,,84,SIM
+RJ,32,Segundo Grau Completo,Casado,3,340000,90,,,89,NAO
+SP,35,Superior Cursando,Casado,3,450000,93,,,95,SIM
+MG,42,Superior Completo,Viuvo,1,900000,150,,,98,NAO
+SC,45,Superior Cursando,Solteiro,0,0,8,,,82,SIM
+PR,48,Superior Completo,Solteiro,1,0,9,,,18,NAO
+RJ,51,Segundo Grau Completo,Casado,0,220000,18,,,98,SIM
+SP,23,Superior Cursando,Casado,1,0,22,,,29,NAO
+MG,28,Superior Completo,Divorciado,2,370000,30,,,34,SIM
+SC,30,Segundo Grau Completo,Divorciado,0,0,14,,,40,NAO
+PR,32,Superior Cursando,Solteiro,0,0,8,,,58,SIM
+RJ,35,Superior Completo,Solteiro,1,0,9,,,18,NAO
+SP,42,Segundo Grau Completo,Casado,0,220000,18,,,75,SIM
+RJ,45,Superior Cursando,Casado,1,0,22,,,29,NAO
+SP,48,Superior Completo,Divorciado,2,370000,30,,,34,SIM
+MG,51,Segundo Grau Completo,Divorciado,0,0,14,,,40,NAO
+SC,53,Superior Cursando,Solteiro,1,185000,19,,,45,SIM
+PR,55,Superior Completo,Solteiro,1,450000,25,,,51,NAO
+RJ,57,Segundo Grau Completo,Casado,0,0,48,,,56,SIM
+SP,62,Superior Cursando,Casado,0,0,120,,,62,NAO
+MG,65,Superior Completo,Divorciado,2,600000,15,,,67,SIM
+SC,19,Segundo Grau Completo,Divorciado,1,0,80,,,73,NAO
+PR,23,Superior Cursando,Casado,2,280000,12,,,78,SIM
+RJ,25,Superior Completo,Casado,2,700000,75,,,84,NAO
+SP,27,Segundo Grau Completo,Casado,3,340000,90,,,89,SIM
+MG,28,Superior Cursando,Casado,3,450000,93,,,95,NAO
+SC,30,Superior Completo,Viuvo,1,900000,150,,,98,SIM
+PR,32,Superior Cursando,Solteiro,0,0,8,,,12,NAO
+RJ,35,Superior Completo,Solteiro,1,0,9,,,92,SIM
+SP,42,Segundo Grau Completo,Casado,0,220000,18,,,23,NAO
+RJ,45,Superior Cursando,Casado,1,0,22,,,86,SIM
+RJ,48,Superior Completo,Divorciado,2,370000,30,,,34,NAO
+PR,51,Segundo Grau Completo,Divorciado,0,0,14,,,40,SIM
+RJ,53,Superior Cursando,Solteiro,0,0,8,,,12,NAO
+SP,55,Superior Completo,Solteiro,1,0,9,,,82,SIM
+RJ,57,Segundo Grau Completo,Casado,0,220000,18,,,23,NAO
+RJ,62,Superior Cursando,Casado,1,0,22,,,79,SIM
+PR,65,Superior Completo,Divorciado,2,370000,30,,,34,NAO
+RJ,19,Segundo Grau Completo,Divorciado,0,0,14,,,40,SIM
+SP,23,Superior Cursando,Solteiro,1,185000,19,,,45,NAO
+RJ,25,Superior Completo,Solteiro,1,450000,25,,,51,SIM
+RJ,27,Segundo Grau Completo,Casado,0,0,48,,,56,NAO
+PR,28,Superior Cursando,Casado,0,0,120,,,62,SIM
+RJ,30,Superior Completo,Divorciado,2,600000,15,,,67,NAO
+SP,32,Segundo Grau Completo,Divorciado,1,0,80,,,73,SIM
+RJ,35,Superior Cursando,Casado,2,280000,12,,,78,NAO
+RJ,42,Superior Completo,Casado,2,700000,75,,,84,SIM
+PR,45,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+RJ,48,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+SP,51,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+RJ,53,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+RJ,55,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,57,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+RJ,62,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,65,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,19,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+RJ,23,Superior Cursando,Solteiro,0,0,8,1800,0,86,SIM
+PR,25,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,27,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+SP,28,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,30,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,32,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,35,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+RJ,42,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,45,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,48,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,51,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,53,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+RJ,55,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,57,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,62,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,65,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,19,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+RJ,23,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,25,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+PR,27,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,28,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,30,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,32,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+PR,35,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,42,Superior Completo,Solteiro,1,0,9,4800,50000,98,SIM
+SP,45,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,48,Superior Cursando,Casado,1,0,22,3900,0,58,SIM
+RJ,51,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+PR,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+RJ,45,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SP,48,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+RJ,51,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,48,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+PR,51,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+SP,48,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+RJ,51,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+RJ,48,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+PR,51,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,48,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,51,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+RJ,48,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+PR,51,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SP,48,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+RJ,51,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+PR,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,86,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,98,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,58,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,79,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,18,NAO
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,82,SIM
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,29,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,SIM
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,NAO
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,SIM
+RJ,57,Segundo Grau Completo,Casado,3,450000,25,22000,150000,51,NAO
+SP,62,Superior Cursando,Casado,3,0,48,4500,28000,56,SIM
+RJ,65,Superior Completo,Viuvo,1,0,120,9800,0,62,NAO
+SP,19,Superior Cursando,Solteiro,0,600000,15,15000,70000,67,SIM
+MG,23,Superior Completo,Solteiro,1,0,80,6100,48000,73,NAO
+SC,25,Segundo Grau Completo,Casado,0,280000,12,9000,0,78,SIM
+PR,27,Superior Cursando,Casado,1,700000,75,17500,50000,84,NAO
+RJ,28,Superior Completo,Divorciado,2,340000,90,13000,180000,89,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,450000,93,5300,0,95,NAO
+MG,32,Superior Cursando,Solteiro,1,900000,150,18300,80000,98,SIM
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,12,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,98,SIM
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,23,NAO
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,98,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,NAO
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,SIM
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,58,SIM
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,18,NAO
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,75,SIM
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,29,NAO
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,34,SIM
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,40,NAO
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,SIM
+RJ,28,Superior Completo,Divorciado,2,450000,25,22000,150000,51,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,48,4500,28000,56,SIM
+MG,32,Superior Cursando,Solteiro,1,0,120,9800,0,62,NAO
+SC,35,Superior Completo,Solteiro,1,600000,15,15000,70000,67,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,80,6100,48000,73,NAO
+RJ,45,Superior Cursando,Casado,0,280000,12,9000,0,78,SIM
+SP,48,Superior Completo,Divorciado,2,700000,75,17500,50000,84,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,340000,90,13000,180000,89,SIM
+SC,53,Superior Cursando,Casado,2,450000,93,5300,0,95,NAO
+PR,55,Superior Completo,Casado,2,900000,150,18300,80000,98,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,12,NAO
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,92,SIM
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,23,NAO
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,86,SIM
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,34,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,40,SIM
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,NAO
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,82,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,18,NAO
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,79,SIM
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,29,NAO
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,SIM
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,NAO
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,450000,25,22000,150000,51,NAO
+SC,53,Superior Cursando,Casado,2,0,48,4500,28000,56,SIM
+PR,55,Superior Completo,Casado,2,0,120,9800,0,62,NAO
+RJ,57,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+SP,62,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+RJ,65,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+SP,19,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+MG,23,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SC,25,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+PR,27,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,75,SIM
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,92,SIM
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,86,SIM
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,82,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+MG,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,27,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+RJ,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+MG,32,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SC,35,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+PR,42,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+RJ,45,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+SP,48,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,79,SIM
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,23,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,82,SIM
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,NAO
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,SIM
+RJ,65,Superior Completo,Viuvo,1,185000,19,6800,0,45,NAO
+SP,23,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+MG,28,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SC,30,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+PR,32,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+RJ,35,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SP,42,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+MG,45,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+SC,48,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+PR,51,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,98,SIM
+RJ,53,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+SP,55,Superior Completo,Solteiro,1,0,22,3900,0,58,SIM
+MG,57,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+SC,62,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+PR,65,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+RJ,19,Segundo Grau Completo,Divorciado,1,0,8,1800,0,75,SIM
+SP,23,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+RJ,25,Superior Completo,Casado,2,220000,18,2200,30000,92,SIM
+SP,27,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+MG,28,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SC,30,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+PR,32,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+RJ,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SP,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+MG,45,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+SC,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+PR,51,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+RJ,53,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SP,55,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+MG,57,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+SC,62,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+PR,65,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+RJ,19,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SP,23,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+RJ,25,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SP,27,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+MG,28,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+SC,30,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+PR,32,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+RJ,35,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+SP,42,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+MG,45,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,86,SIM
+SC,48,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+PR,51,Superior Completo,Solteiro,1,0,22,3900,0,82,SIM
+RJ,53,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+SP,55,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+MG,57,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+SC,62,Segundo Grau Completo,Divorciado,1,0,8,1800,0,79,SIM
+PR,65,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+RJ,19,Superior Completo,Casado,2,220000,18,2200,30000,75,SIM
+SP,23,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+RJ,25,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SP,27,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+MG,28,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+SC,30,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,32,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,35,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+SP,42,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,45,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+SC,48,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+PR,51,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+RJ,53,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+SP,55,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+MG,57,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+SC,62,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+PR,65,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+RJ,19,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+SP,23,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+RJ,25,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+SP,27,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+MG,28,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+SC,30,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+PR,32,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+RJ,35,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,92,SIM
+SP,42,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+MG,45,Superior Completo,Solteiro,1,0,22,3900,0,86,SIM
+SC,48,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+PR,51,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+RJ,23,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+SP,28,Segundo Grau Completo,Divorciado,1,0,8,1800,0,82,SIM
+MG,30,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+SC,32,Superior Completo,Casado,2,220000,18,2200,30000,79,SIM
+PR,35,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+RJ,42,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+SP,45,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+RJ,48,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+SP,51,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+MG,53,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SC,55,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+PR,57,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+RJ,62,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+SP,65,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+MG,19,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+SC,23,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+PR,25,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+RJ,27,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+SP,28,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+MG,30,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+SC,32,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,35,Segundo Grau Completo,Casado,0,220000,18,2200,30000,98,SIM
+RJ,42,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,45,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,48,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,51,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+MG,53,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,55,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,57,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,62,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,65,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+MG,19,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+SC,23,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,25,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,27,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,28,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,30,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,32,Superior Completo,Solteiro,1,0,9,4800,50000,58,SIM
+PR,35,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,42,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+SP,45,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,48,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SP,51,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,53,Superior Completo,Solteiro,1,0,9,4800,50000,92,SIM
+SC,55,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,57,Superior Cursando,Casado,1,0,22,3900,0,86,SIM
+RJ,62,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,65,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,19,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,27,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,30,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,32,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,35,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,42,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,45,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,48,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,51,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+MG,53,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,55,Segundo Grau Completo,Casado,0,220000,18,2200,30000,79,SIM
+PR,57,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,62,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,65,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,19,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+SC,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+RJ,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+MG,23,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+SC,28,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,30,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,32,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,35,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,42,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,45,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+PR,48,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,51,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+SP,53,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+MG,55,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SC,57,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+PR,62,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+RJ,65,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,19,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,23,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,25,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,27,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,28,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,30,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,32,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,35,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,42,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,45,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,48,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,51,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,53,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+MG,55,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SC,57,Superior Cursando,Solteiro,0,0,8,1800,0,98,SIM
+PR,62,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,65,Segundo Grau Completo,Casado,0,220000,18,2200,30000,58,SIM
+SP,19,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,23,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,25,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,27,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+SC,28,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,30,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+RJ,32,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,35,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,45,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,48,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,51,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,53,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+MG,55,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SC,57,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+PR,62,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,65,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+SP,19,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,23,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,25,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+MG,27,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SC,28,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+PR,30,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,32,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+SP,35,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+MG,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SC,45,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+PR,48,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+RJ,51,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,53,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+MG,55,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SC,57,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+PR,62,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+RJ,65,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+SP,19,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,23,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,25,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,27,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,28,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,30,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,32,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,35,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+MG,42,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SC,45,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+PR,48,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,51,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+SP,23,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+MG,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SC,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+PR,32,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+RJ,35,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SP,42,Segundo Grau Completo,Casado,0,220000,18,2200,30000,79,SIM
+RJ,45,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+MG,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SC,53,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+PR,55,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,57,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+SP,62,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+MG,65,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SC,19,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+PR,23,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,25,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+SP,27,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+MG,28,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SC,30,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+PR,32,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,35,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+SP,42,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,45,Superior Cursando,Casado,1,0,22,3900,0,98,SIM
+RJ,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+PR,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+RJ,53,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+SP,55,Superior Completo,Solteiro,1,0,9,4800,50000,58,SIM
+RJ,57,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,62,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+PR,65,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,19,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+SP,23,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+RJ,25,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+RJ,27,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+PR,28,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+RJ,30,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+SP,32,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+RJ,35,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+RJ,42,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+PR,45,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+RJ,48,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+SP,51,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+RJ,53,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+RJ,55,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+PR,57,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+RJ,62,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+SP,65,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,19,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+RJ,23,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+PR,25,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+RJ,27,Segundo Grau Completo,Casado,0,220000,18,2200,30000,79,SIM
+SP,28,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,30,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+RJ,32,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,35,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+RJ,42,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+RJ,45,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,48,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+RJ,51,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,53,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+RJ,55,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+RJ,57,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+PR,62,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+RJ,65,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+SP,19,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+RJ,23,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,25,Superior Completo,Solteiro,1,0,9,4800,50000,75,SIM
+PR,27,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+SP,28,Superior Cursando,Casado,1,0,22,3900,0,92,SIM
+RJ,30,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+RJ,32,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+PR,35,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+RJ,42,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+SP,45,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+RJ,48,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,51,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+PR,42,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+RJ,45,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SP,48,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+RJ,51,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,48,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+PR,51,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+SP,48,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+RJ,51,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+RJ,48,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+PR,51,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,48,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,51,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+RJ,48,Superior Cursando,Solteiro,0,0,8,1800,0,79,SIM
+PR,51,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SP,48,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+RJ,51,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,48,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+PR,51,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,98,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,58,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,75,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,92,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,86,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,82,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,79,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,75,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,92,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,86,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,82,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,79,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,82,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,98,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,98,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,58,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,NAO
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,SIM
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,SIM
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,NAO
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,SIM
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,NAO
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,SIM
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,NAO
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,75,SIM
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,18,NAO
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,92,SIM
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,29,NAO
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,NAO
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,SIM
+SC,35,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+RJ,45,Superior Cursando,Casado,0,0,120,9800,0,62,NAO
+SP,48,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,80,6100,48000,73,NAO
+SC,53,Superior Cursando,Casado,2,280000,12,9000,0,78,SIM
+PR,55,Superior Completo,Casado,2,700000,75,17500,50000,84,NAO
+RJ,57,Segundo Grau Completo,Casado,3,340000,90,13000,180000,89,SIM
+SP,62,Superior Cursando,Casado,3,450000,93,5300,0,95,NAO
+RJ,65,Superior Completo,Viuvo,1,900000,150,18300,80000,98,SIM
+SP,19,Superior Cursando,Solteiro,0,0,8,1800,0,12,NAO
+MG,23,Superior Completo,Solteiro,1,0,9,4800,50000,86,SIM
+SC,25,Segundo Grau Completo,Casado,0,220000,18,2200,30000,23,NAO
+PR,27,Superior Cursando,Casado,1,0,22,3900,0,82,SIM
+RJ,28,Superior Completo,Divorciado,2,370000,30,11500,35000,34,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,14,3100,40000,40,SIM
+MG,32,Superior Cursando,Solteiro,1,185000,19,6800,0,45,NAO
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,79,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,18,NAO
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,75,SIM
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,29,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,SIM
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,NAO
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,SIM
+RJ,57,Segundo Grau Completo,Casado,3,450000,25,22000,150000,51,NAO
+SP,62,Superior Cursando,Casado,3,0,48,4500,28000,56,SIM
+RJ,65,Superior Completo,Viuvo,1,0,120,9800,0,62,NAO
+SP,19,Superior Cursando,Solteiro,0,600000,15,15000,70000,67,SIM
+MG,23,Superior Completo,Solteiro,1,0,80,6100,48000,73,NAO
+SC,25,Segundo Grau Completo,Casado,0,280000,12,9000,0,78,SIM
+PR,28,Superior Cursando,Casado,1,700000,75,17500,50000,84,NAO
+RJ,28,Superior Completo,Divorciado,2,340000,90,13000,180000,89,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,450000,93,5300,0,95,NAO
+MG,32,Superior Cursando,Solteiro,1,900000,150,18300,80000,98,SIM
+SC,35,Superior Completo,Solteiro,1,0,8,1800,0,12,NAO
+PR,42,Segundo Grau Completo,Casado,0,0,9,4800,50000,92,SIM
+RJ,45,Superior Cursando,Casado,0,220000,18,2200,30000,23,NAO
+SP,48,Superior Completo,Divorciado,2,0,22,3900,0,86,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,370000,30,11500,35000,34,NAO
+SC,53,Superior Cursando,Casado,2,0,14,3100,40000,40,SIM
+PR,55,Superior Completo,Casado,2,185000,19,6800,0,45,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,82,SIM
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,18,NAO
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,79,SIM
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,29,NAO
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,34,SIM
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,40,NAO
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,SIM
+RJ,28,Superior Completo,Divorciado,2,450000,25,22000,150000,51,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,48,4500,28000,56,SIM
+MG,32,Superior Cursando,Solteiro,1,0,120,9800,0,62,NAO
+SC,35,Superior Completo,Solteiro,1,600000,15,15000,70000,67,SIM
+PR,42,Segundo Grau Completo,Casado,0,0,80,6100,48000,73,NAO
+RJ,45,Superior Cursando,Casado,0,280000,12,9000,0,78,SIM
+SP,48,Superior Completo,Divorciado,2,700000,75,17500,50000,84,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,340000,90,13000,180000,89,SIM
+SC,53,Superior Cursando,Casado,2,450000,93,5300,0,95,NAO
+PR,55,Superior Completo,Casado,2,900000,150,18300,80000,98,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,8,1800,0,12,NAO
+SP,62,Superior Cursando,Casado,3,0,9,4800,50000,82,SIM
+RJ,65,Superior Completo,Viuvo,1,220000,18,2200,30000,23,NAO
+SP,19,Superior Cursando,Solteiro,0,0,22,3900,0,98,SIM
+MG,23,Superior Completo,Solteiro,1,370000,30,11500,35000,34,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,14,3100,40000,40,SIM
+PR,27,Superior Cursando,Casado,1,185000,19,6800,0,45,NAO
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,58,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,18,NAO
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,75,SIM
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,29,NAO
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,SIM
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,NAO
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,450000,25,22000,150000,51,NAO
+SC,53,Superior Cursando,Casado,2,0,48,4500,28000,56,SIM
+PR,55,Superior Completo,Casado,2,0,120,9800,0,62,NAO
+RJ,57,Segundo Grau Completo,Casado,3,600000,15,15000,70000,67,SIM
+SP,62,Superior Cursando,Casado,3,0,80,6100,48000,73,NAO
+RJ,65,Superior Completo,Viuvo,1,280000,12,9000,0,78,SIM
+SP,19,Superior Cursando,Solteiro,0,700000,75,17500,50000,84,NAO
+MG,23,Superior Completo,Solteiro,1,340000,90,13000,180000,89,SIM
+SC,25,Segundo Grau Completo,Casado,0,450000,93,5300,0,95,NAO
+PR,27,Superior Cursando,Casado,1,900000,150,18300,80000,98,SIM
+RJ,28,Superior Completo,Divorciado,2,0,8,1800,0,12,NAO
+SP,30,Segundo Grau Completo,Divorciado,0,0,9,4800,50000,92,SIM
+MG,32,Superior Cursando,Solteiro,1,220000,18,2200,30000,23,NAO
+SC,35,Superior Completo,Solteiro,1,0,22,3900,0,86,SIM
+PR,42,Segundo Grau Completo,Casado,0,370000,30,11500,35000,34,NAO
+RJ,45,Superior Cursando,Casado,0,0,14,3100,40000,40,SIM
+SP,48,Superior Completo,Divorciado,2,185000,19,6800,0,45,NAO
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,82,SIM
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,18,NAO
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,79,SIM
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,29,NAO
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,SIM
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,NAO
+SP,19,Superior Cursando,Solteiro,0,185000,19,6800,0,45,SIM
+MG,23,Superior Completo,Solteiro,1,450000,25,22000,150000,51,NAO
+SC,25,Segundo Grau Completo,Casado,0,0,48,4500,28000,56,SIM
+PR,27,Superior Cursando,Casado,1,0,120,9800,0,62,NAO
+RJ,28,Superior Completo,Divorciado,2,600000,15,15000,70000,67,SIM
+SP,30,Segundo Grau Completo,Divorciado,0,0,80,6100,48000,73,NAO
+MG,32,Superior Cursando,Solteiro,1,280000,12,9000,0,78,SIM
+SC,35,Superior Completo,Solteiro,1,700000,75,17500,50000,84,NAO
+PR,42,Segundo Grau Completo,Casado,0,340000,90,13000,180000,89,SIM
+RJ,45,Superior Cursando,Casado,0,450000,93,5300,0,95,NAO
+SP,48,Superior Completo,Divorciado,2,900000,150,18300,80000,98,SIM
+MG,51,Segundo Grau Completo,Divorciado,1,0,8,1800,0,12,NAO
+SC,53,Superior Cursando,Casado,2,0,9,4800,50000,75,SIM
+PR,55,Superior Completo,Casado,2,220000,18,2200,30000,23,NAO
+RJ,57,Segundo Grau Completo,Casado,3,0,22,3900,0,92,SIM
+SP,62,Superior Cursando,Casado,3,370000,30,11500,35000,34,NAO
+RJ,65,Superior Completo,Viuvo,1,0,14,3100,40000,40,SIM
+RJ,65,Superior Completo,Viuvo,1,185000,19,6800,0,45,NAO
